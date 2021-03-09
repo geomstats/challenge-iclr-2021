@@ -1,1 +1,1 @@
-# challenge-iclr-2021
+# Computational Geometry and Topology Challenge 2021
