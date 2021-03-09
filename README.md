@@ -94,4 +94,4 @@ Selected Geomstats/Giotto-tda maintainers and collaborators, as well as each par
 
 ## Questions?
 
-Feel free to contact us through GitHub issues on this repository, on Geomstats/Giotto-TDA repositories or through the slack workspaces.
+Feel free to contact us through [GitHub issues on this repository](https://github.com/geomstats/challenge-iclr-2021/issues), on Geomstats/Giotto-TDA repositories or through [Geomstats slack](https://geomstats.slack.com/) and [Giotto-TDA slack](https://slack.giotto.ai/).
