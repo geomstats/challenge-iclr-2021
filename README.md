@@ -1,6 +1,6 @@
-# ICLR Computational Geometry and Topology Challenge 2021
+# ICLR Computational Geometry & Topology Challenge 2021
 
-Welcome to the ICLR Computational Geometry and Topology challenge 2021!
+Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
 The purpose of this challenge is to push forward the fields of computational differential geometry and topology, by creating the best data analysis, computational method, or numerical experiment relying on state-of-the-art geometric and topological Python packages.
 
