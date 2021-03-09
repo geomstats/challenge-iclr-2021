@@ -9,7 +9,7 @@ Each submission takes the form of a Jupyter Notebook leveraging the packages [Ge
 ## Deadline
 
 The final Pull Request submission date and hour will have to take place before:
-- **May 2nd at 23:59 PST (Pacific Standard Time)**. 
+- **May 2nd, 2021 at 23:59 PST (Pacific Standard Time)**. 
 
 The participants can freely commit to their Pull Request and modify their submission until this time.
 
