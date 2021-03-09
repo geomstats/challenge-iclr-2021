@@ -44,7 +44,7 @@ A submission should respect the following Jupyter Notebook’s structure:
 - Benchmark:
     - Compare your results with other methods/packages
 - Limitations and perspectives:
-    - Describe the limitations of your method
+    - Describe the limitations of your analysis/method/experiment
     - Describe the limitations of the packages Geomstats and Giotto-tda
     - List features that you would like to find in packages like Geomstats and Giotto-tda
 
