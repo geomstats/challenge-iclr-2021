@@ -6,6 +6,8 @@ Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
 The purpose of this challenge is to push forward the fields of computational differential geometry and topology, by creating the best data analysis, computational method, or numerical experiment relying on state-of-the-art geometric and topological Python packages.
 
+All participants will have the opportunity to co-author a white paper summarizing the findings of the challenge.
+
 Each submission takes the form of a Jupyter Notebook leveraging the packages [Geomstats](https://github.com/geomstats/geomstats) and [Giotto-tda](https://github.com/giotto-ai/giotto-tda). The participants submit their Jupyter Notebook via [Pull Requests](https://github.com/geomstats/challenge-iclr-2021/pulls) (PR) to this GitHub repository, see [Guidelines](#guidelines) below.
 
 ## Deadline
