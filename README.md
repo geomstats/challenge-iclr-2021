@@ -36,6 +36,8 @@ An acceptable PR automatically subscribes a participant to the challenge.
 
 ## Guidelines
 
+We encourage the participants to start submitting their Pull Request early on. This allows to debug the tests and helps to address potential issues with the code.
+
 A submission should respect the following Jupyter Notebook’s structure:
 - Introduction and motivation: 
     - Explain and motivate the problem
