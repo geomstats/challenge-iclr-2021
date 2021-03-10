@@ -56,7 +56,7 @@ Here is a non-exhaustive list of possible submissions:
 - Benchmarking/profiling on geometric and topological methods against other methods for a public dataset.
 Etc.
 
-The code should be compatible with Python 3.8.
+The code should be compatible with Python 3.8 and make an effort to respect the Python style guide [PEP8](https://www.python.org/dev/peps/pep-0008/).
 
 The Jupyter notebooks are automatically tested when a Pull Request is submitted. The tests have to pass. Their running time should not exceed 3 hours, although exceptions can be made by contacting the challenge organizers.
 
