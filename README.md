@@ -22,9 +22,9 @@ The participants can freely commit to their Pull Request and modify their submis
 The first 3 winners will be announced at the ICLR 2021 virtual workshop [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) and advertised through the web. The winners will also be contacted directly via email. 
 
 The prizes are:
-- 2000$ for the 1st place,
-- 1000$ for the 2nd place,
-- 500$ for the 3rd place.
+- $2000 for the 1st place,
+- $1000 for the 2nd place,
+- $500 for the 3rd place.
  
 ## Subscription
 
