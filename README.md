@@ -1,6 +1,6 @@
 # ICLR Computational Geometry & Topology Challenge 2021
 
-[![Build Status](https://travis-ci.org/geomstats/challenge-iclr-2021.svg?branch=master)](https://travis-ci.org/geomstats/challenge-iclr-2021) 
+[![Build Status](https://travis-ci.org/geomstats/challenge-iclr-2021.svg?branch=main)](https://travis-ci.org/geomstats/challenge-iclr-2021) 
 
 Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
