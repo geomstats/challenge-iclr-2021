@@ -96,7 +96,7 @@ import sys
 
 ## Evaluation and ranking
 
-The [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method) will be used to rank the submissions and decide on the winners. 
+The [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method) will be used to rank the submissions and decide on the winners. The main evaluation criterion is general and encourages participants to be creative: "how does the submission help push forward the fields of computational geometry and topology?".
 
 Selected Geomstats/Giotto-tda maintainers and collaborators, as well as each participant whose submission respects the guidelines, will vote once on Google Form to express their preference for the 3 best submissions. The 3 preferences must all 3 be different: e.g. one cannot select the same Jupyter notebook for both first and second place. Such irregular votes will be discarded. A link to a Google Form will be provided to record the votes. It will be required to insert an email address to identify the voter. The voters will remain secret, only the final ranking will be published.
 
