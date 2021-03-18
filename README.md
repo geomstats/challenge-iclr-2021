@@ -40,6 +40,10 @@ An acceptable PR automatically subscribes a participant to the challenge.
 
 We encourage the participants to start submitting their Pull Request early on. This allows to debug the tests and helps to address potential issues with the code.
 
+Teams are accepted and there is no restriction on the number of team members.
+
+The principal developpers of Geomstats and Giotto-tda (i.e. the co-authors of Geomstats/Giotto-tda published papers) are not allowed to participate.
+
 A submission should respect the following Jupyter Notebook’s structure:
 - Introduction and motivation: 
     - Explain and motivate the problem
@@ -98,7 +102,9 @@ import sys
 
 The [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method) will be used to rank the submissions and decide on the winners. The main evaluation criterion is general and encourages participants to be creative: "how does the submission help push forward the fields of computational geometry and topology?".
 
-Selected Geomstats/Giotto-tda maintainers and collaborators, as well as each participant whose submission respects the guidelines, will vote once on Google Form to express their preference for the 3 best submissions. The 3 preferences must all 3 be different: e.g. one cannot select the same Jupyter notebook for both first and second place. Such irregular votes will be discarded. A link to a Google Form will be provided to record the votes. It will be required to insert an email address to identify the voter. The voters will remain secret, only the final ranking will be published.
+Selected Geomstats/Giotto-tda maintainers and collaborators, as well as each team whose submission respects the guidelines, will vote once on Google Form to express their preference for the 3 best submissions. Note that each team gets only one vote, even if there are several participants in the team.
+
+The 3 preferences must all 3 be different: e.g. one cannot select the same Jupyter notebook for both first and second place. Such irregular votes will be discarded. A link to a Google Form will be provided to record the votes. It will be required to insert an email address to identify the voter. The voters will remain secret, only the final ranking will be published.
 
 ## Questions?
 
