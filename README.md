@@ -30,7 +30,6 @@ The prizes are:
 
 Anyone can participate and participation is free. It is enough to:
 - send a [Pull Request](https://github.com/geomstats/challenge-iclr-2021/pulls),
-- accept the Contributor License Agreement (CLA) on GitHub,
 - follow the challenge [guidelines](#guidelines),
 to be automatically considered amongst the participants. 
 
@@ -62,7 +61,7 @@ Here is a non-exhaustive list of possible submissions:
 - Data analysis with geometric and topological methods,
 - Implementation of the code from a research paper with Geomstats and Giotto-tda
 - Implementation of a feature to merge into Geomstats and Giotto-tda codebases (see examples of PR on Geomstats and Giotto-tda repositories)
-- Implementation of a visualization method to merge into Geomstats and Giotto-tda (see example here: )
+- Implementation of a visualization method to merge into Geomstats and Giotto-tda
 - Benchmarking/profiling on geometric and topological methods against other methods for a public dataset.
 Etc.
 
@@ -76,7 +75,7 @@ If a dataset is used, the dataset has to be public and referenced. There is no c
 
 A participant can raise GitHub issues and/or request help or guidance at any time through [Geomstats slack](https://geomstats.slack.com/) and [Giotto-TDA slack](https://slack.giotto.ai/). The help/guidance will be provided modulo availability of the maintainers.
 
-**Important:** Geomstats *and* Giotto-tda have to play a central role in the submission.
+**Important:** The packages Geomstats *and* Giotto-tda have to play a central role in the submission. The participants can (i) use the functions already available in these packages, and/or (ii) suggest new implementations to be added to the packages. If the participants suggest new implementations to incorporate into the packages, they should specify where their code could be added in the main code bases of Geomstats and Giotto-TDA. The participants should note that Geomstats and Giotto-TDA have different license agreement, available on their respective GitHub repositories' pages.
 
 
 ## Submission procedure
