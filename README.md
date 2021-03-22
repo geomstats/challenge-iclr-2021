@@ -75,7 +75,7 @@ If a dataset is used, the dataset has to be public and referenced. There is no c
 
 A participant can raise GitHub issues and/or request help or guidance at any time through [Geomstats slack](https://geomstats.slack.com/) and [Giotto-TDA slack](https://slack.giotto.ai/). The help/guidance will be provided modulo availability of the maintainers.
 
-**Important:** The packages Geomstats *and* Giotto-tda have to play a central role in the submission. The participants can (i) use the functions already available in these packages, and/or (ii) suggest new implementations to be added to the packages. If the participants suggest new implementations to incorporate into the packages, they should specify where their code could be added in the main code bases of Geomstats and Giotto-TDA. The participants should note that Geomstats and Giotto-TDA have different license agreement, available on their respective GitHub repositories' pages.
+**Important:** The packages Geomstats *and* Giotto-tda have to play a central role in the submission. The participants can (i) use the functions already available in these packages, and/or (ii) suggest new implementations to be added to the packages. In the second case (ii), the participants should either specify where their code could be added in the main code bases of Geomstats/Giotto-TDA, or directly submit a PR to the corresponding package and reference this PR within their challenge's submission. The participants should note that Geomstats and Giotto-TDA have different license agreements, available on their respective GitHub repositories' pages.
 
 
 ## Submission procedure
