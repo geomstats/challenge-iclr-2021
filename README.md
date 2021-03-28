@@ -10,6 +10,9 @@ All participants will have the opportunity to co-author a white paper summarizin
 
 Each submission takes the form of a Jupyter Notebook leveraging the packages [Geomstats](https://github.com/geomstats/geomstats) and [Giotto-tda](https://github.com/giotto-ai/giotto-tda). The participants submit their Jupyter Notebook via [Pull Requests](https://github.com/geomstats/challenge-iclr-2021/pulls) (PR) to this GitHub repository, see [Guidelines](#guidelines) below.
 
+**Note:** _We invite participants to review this README regularly, as details are added to the guidelines when questions are submitted to the organizers._
+
+
 ## Deadline
 
 The final Pull Request submission date and hour will have to take place before:
