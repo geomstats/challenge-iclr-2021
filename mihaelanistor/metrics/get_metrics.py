@@ -1,6 +1,7 @@
 from geomstats.geometry.stiefel import Stiefel, StiefelCanonicalMetric
 from geomstats.geometry.grassmannian import Grassmannian, GrassmannianCanonicalMetric
 
+
 from metrics.stiefel.subspace_angle import StiefelSubspaceAngleMetric
 from metrics.stiefel.chordal_distance_Fnorm import StiefelChordalFNormMetric
 from metrics.stiefel.chordal_distance_2norm import StiefelChordal2NormMetric
