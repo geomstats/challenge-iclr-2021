@@ -1,5 +1,4 @@
 
-import dionysus as dion
 import numpy as np
 from scipy.optimize import linear_sum_assignment as hungarian
 import math
