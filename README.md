@@ -10,6 +10,9 @@ All participants will have the opportunity to co-author a white paper summarizin
 
 Each submission takes the form of a Jupyter Notebook leveraging the packages [Geomstats](https://github.com/geomstats/geomstats) and [Giotto-tda](https://github.com/giotto-ai/giotto-tda). The participants submit their Jupyter Notebook via [Pull Requests](https://github.com/geomstats/challenge-iclr-2021/pulls) (PR) to this GitHub repository, see [Guidelines](#guidelines) below.
 
+**Note:** _We invite participants to review this README regularly, as details are added to the guidelines when questions are submitted to the organizers._
+
+
 ## Deadline
 
 The final Pull Request submission date and hour will have to take place before:
@@ -30,7 +33,6 @@ The prizes are:
 
 Anyone can participate and participation is free. It is enough to:
 - send a [Pull Request](https://github.com/geomstats/challenge-iclr-2021/pulls),
-- accept the Contributor License Agreement (CLA) on GitHub,
 - follow the challenge [guidelines](#guidelines),
 to be automatically considered amongst the participants. 
 
@@ -62,7 +64,7 @@ Here is a non-exhaustive list of possible submissions:
 - Data analysis with geometric and topological methods,
 - Implementation of the code from a research paper with Geomstats and Giotto-tda
 - Implementation of a feature to merge into Geomstats and Giotto-tda codebases (see examples of PR on Geomstats and Giotto-tda repositories)
-- Implementation of a visualization method to merge into Geomstats and Giotto-tda (see example here: )
+- Implementation of a visualization method to merge into Geomstats and Giotto-tda
 - Benchmarking/profiling on geometric and topological methods against other methods for a public dataset.
 Etc.
 
@@ -76,7 +78,7 @@ If a dataset is used, the dataset has to be public and referenced. There is no c
 
 A participant can raise GitHub issues and/or request help or guidance at any time through [Geomstats slack](https://geomstats.slack.com/) and [Giotto-TDA slack](https://slack.giotto.ai/). The help/guidance will be provided modulo availability of the maintainers.
 
-**Important:** Geomstats *and* Giotto-tda have to play a central role in the submission.
+**Important:** The packages Geomstats *and* Giotto-tda have to play a central role in the submission. The participants can (i) use the functions already available in these packages, and/or (ii) suggest new implementations to be added to the packages. In the second case (ii), the participants should either specify where their code could be added in the main code bases of Geomstats/Giotto-TDA, or directly submit a PR to the corresponding package and reference this PR within their challenge's submission. The participants should note that Geomstats and Giotto-TDA have different license agreements, available on their respective GitHub repositories' pages.
 
 
 ## Submission procedure
@@ -108,4 +110,4 @@ The 3 preferences must all 3 be different: e.g. one cannot select the same Jupyt
 
 ## Questions?
 
-Feel free to contact us through [GitHub issues on this repository](https://github.com/geomstats/challenge-iclr-2021/issues), on Geomstats/Giotto-TDA repositories or through [Geomstats slack](https://geomstats.slack.com/) and [Giotto-TDA slack](https://slack.giotto.ai/).
+Feel free to contact us through [GitHub issues on this repository](https://github.com/geomstats/challenge-iclr-2021/issues), on Geomstats/Giotto-TDA repositories or through [Geomstats slack](https://geomstats.slack.com/) and [Giotto-TDA slack](https://slack.giotto.ai/). Alternatively, you can contact Nina Miolane at nmiolane@gmail.com.

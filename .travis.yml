@@ -12,6 +12,7 @@ before_script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
 script:
   - |
+    travis_wait 180
     set -e
     for n in */*.ipynb
     do
