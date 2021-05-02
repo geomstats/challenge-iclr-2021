@@ -16,6 +16,7 @@ from metrics.grassmannian.projection_2norm import GrassmannianProjection2NormMet
 from metrics.grassmannian.projection_Fnorm import GrassmannianProjectionFNormMetric
 
 
+
 def get_stiefel_metrics(stiefel, point_a, point_b):
 	assert isinstance(stiefel, Stiefel)
 	assert stiefel.belongs(point_a)
