@@ -12,11 +12,10 @@ before_script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
 script:
   - |
-    travis_wait 180
     set -e
     for n in */*.ipynb
     do
-      jupyter nbconvert --to notebook --execute $n
+      travis_wait 180 jupyter nbconvert --to notebook --execute $n
     done
 env:
   - GEOMSTATS_BACKEND=numpy
