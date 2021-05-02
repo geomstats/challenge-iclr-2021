@@ -4,7 +4,6 @@ from scipy.optimize import linear_sum_assignment as hungarian
 import math
 import random
 import warnings
-import persim
 from scipy.spatial import distance
 from gtda.homology import VietorisRipsPersistence
 from gtda.diagrams import PairwiseDistance
