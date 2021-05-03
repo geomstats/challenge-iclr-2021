@@ -8,7 +8,7 @@ import numpy as np
 from rdkit import Chem
 from rdkit.Chem import rdMolDescriptors
 
-elements_dict = frozendict({'H' : 1.008,'HE' : 4.003, 'LI' : 6.941, 'BE' : 9.012,\
+elements_dict = {'H' : 1.008,'HE' : 4.003, 'LI' : 6.941, 'BE' : 9.012,\
                  'B' : 10.811, 'C' : 12.011, 'N' : 14.007, 'O' : 15.999,\
                  'F' : 18.998, 'NE' : 20.180, 'NA' : 22.990, 'MG' : 24.305,\
                  'AL' : 26.982, 'SI' : 28.086, 'P' : 30.974, 'S' : 32.066,\
@@ -36,11 +36,11 @@ elements_dict = frozendict({'H' : 1.008,'HE' : 4.003, 'LI' : 6.941, 'BE' : 9.012
                  'LR' : 262, 'RF' : 261, 'DB' : 262, 'SG' : 266, 'BH' : 264,\
                  'HS' : 269, 'MT' : 268, 'DS' : 271, 'RG' : 272, 'CN' : 285,\
                  'NH' : 284, 'FL' : 289, 'MC' : 288, 'LV' : 292, 'TS' : 294,\
-                 'OG' : 294})
+                 'OG' : 294}
 
-letters = frozendict({'ALA':'A','ARG':'R','ASN':'N','ASP':'D','CYS':'C','GLU':'E','GLN':'Q','GLY':'G','HIS':'H',
+letters = {'ALA':'A','ARG':'R','ASN':'N','ASP':'D','CYS':'C','GLU':'E','GLN':'Q','GLY':'G','HIS':'H',
            'ILE':'I','LEU':'L','LYS':'K','MET':'M','PHE':'F','PRO':'P','SER':'S','THR':'T','TRP':'W',
-           'TYR':'Y','VAL':'V'})
+           'TYR':'Y','VAL':'V'}
 
 
 class Featurize_PDB:

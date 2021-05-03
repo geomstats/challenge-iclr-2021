@@ -2,7 +2,7 @@ from frozendict import frozendict
 import numpy as np
 from sklearn import model_selection, metrics, svm, ensemble
 
-model_params = frozendict({
+model_params = {
     'svm': {
         'kernel': ['linear', 'rbf', 'sigmoid'], 
         'nu': [0.1, 0.3, 0.5]
@@ -12,7 +12,7 @@ model_params = frozendict({
         'n_estimators': [10, 100, 1000],
         'max_features': [0.1, 0.3, 1]
     },
-})
+}
 
 
 def filter_dataset(receptor_feature, peptide_feature):

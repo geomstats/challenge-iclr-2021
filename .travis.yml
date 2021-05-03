@@ -9,9 +9,6 @@ install:
   - pip install --upgrade pip setuptools wheel
   - pip install -q -r requirements.txt
   - conda install -c conda-forge rdkit
-  - pip install frozendict
-  - pip install scikit-learn==0.23.2
-  - pip install giotto-tda
   - pip install biopython
   - conda install -c conda-forge mdtraj
 before_script:
