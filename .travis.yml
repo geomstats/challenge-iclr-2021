@@ -11,8 +11,8 @@ before_install:
   - ./miniconda.sh -b
   - export PATH=/home/travis/miniconda2/bin:$PATH
   - conda update --yes conda  # Update CONDA without command line prompt
-install:
   - pip install --upgrade pip setuptools wheel
+install:
   - pip install -q -r requirements.txt
   - conda install --yes -c plotly plotly-orca
 before_script:
