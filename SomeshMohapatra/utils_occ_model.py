@@ -1,4 +1,3 @@
-from frozendict import frozendict
 import numpy as np
 from sklearn import model_selection, metrics, svm, ensemble
 

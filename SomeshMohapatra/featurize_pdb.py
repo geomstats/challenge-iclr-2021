@@ -1,7 +1,6 @@
 import os
 
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
-from frozendict import frozendict
 import math
 import mdtraj as md
 import numpy as np
