@@ -24,7 +24,7 @@ def filter_dataset(receptor_feature, peptide_feature):
         peptide_feature: list, arrays of peptide pdb features
 
     Returns:
-        tuple(receptor_feature, peptide_feature): lists of filtered pdb features
+        tuple(receptor_feature, peptide_feature, indices_list): lists of filtered pdb features and indices
 
     """
     peptide_indices_list = []
@@ -40,7 +40,10 @@ def filter_dataset(receptor_feature, peptide_feature):
     
     indices_list = [idx for idx in peptide_indices_list if idx in receptor_indices_list]
     
-    return list(np.array(receptor_feature)[indices_list]), list(np.array(peptide_feature)[indices_list])
+    return (
+        list(np.array(receptor_feature)[indices_list]), 
+        list(np.array(peptide_feature)[indices_list]), 
+        indices_list)
 
 def occ_scorer(estimator, X, y=None):
     """Scores one-class classification.

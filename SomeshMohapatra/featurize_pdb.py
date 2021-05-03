@@ -185,24 +185,24 @@ class Featurize_PDB:
         if feature_type == 'Coulomb':
             try:
                 mol_obj = Chem.rdmolfiles.MolFromPDBFile(path_pdb)
+                return self._coulomb_matrix(mol_obj)
             except:
                 print('Invalid PDB file.')
-            return self._coulomb_matrix(mol_obj)
         
         elif 'PC' in feature_type:
             try:
                 md_obj = md.load_pdb(path_pdb)
                 mass = False if 'Mass' not in feature_type else True
+                return self._point_cloud(md_obj, mass=mass)
             except:
                 print('Invalid PDB trajectory.')
-            return self._point_cloud(md_obj, mass=mass)
                 
         elif feature_type == 'Parameters':
             try:
                 sequence = self._pdb_to_sequence(path_pdb)
+                return self._protein_parameters(sequence)
             except:
                 print('Invalid PDB file.')
-            return self._protein_parameters(sequence)
         
         else:
             print('Invalid feature type')
