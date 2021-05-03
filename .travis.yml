@@ -8,8 +8,7 @@ python:
 install:
   - pip install --upgrade pip setuptools wheel
   - pip install -q -r requirements.txt
-  - conda create -c conda-forge -n ppi_tda rdkit
-  - conda activate ppi_tda
+  - conda install -c conda-forge rdkit
   - pip install frozendict
   - pip install scikit-learn==0.23.2
   - pip install giotto-tda
