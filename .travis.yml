@@ -6,17 +6,26 @@ python:
   - "3.8"
 
 install:
+  - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
+  - bash miniconda.sh -b -p $HOME/miniconda
+  - export PATH="$HOME/miniconda/bin:$PATH"
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda update -q conda
+  - conda info -a
+  - conda create -q -n test-env python=$TRAVIS_PYTHON_VERSION
+  - source activate test-env
   - pip install --upgrade pip setuptools wheel
   - pip install -q -r requirements.txt
+  - conda install --yes -c plotly plotly-orca
 before_script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
 script:
   - |
-    travis_wait 180
     set -e
     for n in */*.ipynb
     do
-      jupyter nbconvert --to notebook --execute $n
+      travis_wait 180 jupyter nbconvert --to notebook --execute $n
     done
 env:
   - GEOMSTATS_BACKEND=numpy
