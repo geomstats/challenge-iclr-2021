@@ -10,7 +10,6 @@ before_install:
   - chmod +x miniconda.sh
   - ./miniconda.sh -b
   - export PATH=/home/travis/miniconda/bin:$PATH
-  - conda update --yes conda  # Update CONDA without command line prompt
 install:
   - pip install --upgrade pip setuptools wheel
   - pip install -q -r requirements.txt
