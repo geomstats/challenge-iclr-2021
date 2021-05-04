@@ -1,0 +1,3 @@
+[submodule "mihaelanistor/data/ShapeDNA"]
+	path = mihaelanistor/data/ShapeDNA
+	url = https://github.com/raphaelsulzer/ShapeDNA.git
