@@ -1,7 +1,5 @@
 # ICLR Computational Geometry & Topology Challenge 2021
 
-[![Build Status](https://travis-ci.org/geomstats/challenge-iclr-2021.svg?branch=main)](https://travis-ci.org/geomstats/challenge-iclr-2021) 
-
 Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
 _*UPDATE*: The voting process is now open! Participants and external reviewers have received a Google Form link to vote on the submissions, and decide together on the best open-source contribution in computational geometry and topology for 2021!_
