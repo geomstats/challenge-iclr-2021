@@ -4,6 +4,8 @@
 
 Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
+_*UPDATE*: The voting process is now open! Participants and external reviewers have received a Google Form link to vote on the submissions, and decide together on the best open-source contribution in computational geometry and topology for 2021!_
+
 The purpose of this challenge is to push forward the fields of computational differential geometry and topology, by creating the best data analysis, computational method, or numerical experiment relying on state-of-the-art geometric and topological Python packages.
 
 All participants will have the opportunity to co-author a white paper summarizing the findings of the challenge.
