@@ -2,9 +2,37 @@
 
 Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
-_*UPDATE*: The voting process is now open! Participants and external reviewers have received a Google Form link to vote on the submissions, and decide together on the best open-source contribution in computational geometry and topology for 2021!_
+## Results
 
-_*UPDATE*_: The winners will be announce in a few minutes! Stay tuned!
+All submissions to the challenge were of very high quality. We warmly congratulate all of the participants! We encourage the interested readers to take a look at the participants' submissions in the different folders of this repository.
+
+The winners were decided using the [Condorcet Method](https://github.com/geomstats/challenge-iclr-2021/blob/main/README.md#evaluation-and-ranking).
+
+Here are the best contributions to open-source computational geometry and topology of ICLR 2021! 
+
+### Winner 1st place ($2000):
+
+Matei Bejan, Bogdan Luchian, Andrei Manolache, Armand Nicolicioiu, Mihaela Nistor, Mihai Sorin Stupariu
+
+[Topological noise invariant features using Giotto-TDA and Geomstats](https://github.com/geomstats/challenge-iclr-2021/blob/main/mihaelanistor/noise_invariant_topological_features.ipynb) 
+
+<img src="mihaelanistor/images/common_pipeline.png" alt="Topological Noise Invariant Features: Pipeline using Giotto-TDA and Geomstats" width="800" />
+
+### Co-winners for 2nd and 3rd place ($750 each):
+
+- Saiteja Utpala: [Shrinkage Estimator of SPD matrices & Recursive Karcher Expectation Estimator](https://github.com/geomstats/challenge-iclr-2021/tree/main/SaitejaUtpala)
+- Elodie Maignant: [Visualization of Kendall shape spaces for triangles](https://github.com/geomstats/challenge-iclr-2021/blob/main/emaignant/submission_visualization_of_kendall_shape_spaces_for_triangles.ipynb)
+
+### Special mentions:
+
+- Gabriele Corso: [Neural Sequence Distance Embeddings](https://github.com/geomstats/challenge-iclr-2021/blob/main/gcorso/Neural_SEED.ipynb)
+- Somesh Mohapatra:  [Repurposing peptide inhibitors for SARS-Cov-2 spike protein](https://github.com/geomstats/challenge-iclr-2021/blob/main/SomeshMohapatra/Protein_Peptide_Interactions-TDA.ipynb)
+
+Congratulations to all!!
+
+The organizers will be in touch with the winners to distribute the prizes, and in touch with all the participants to write the white paper summarizing the findings of the challenge.
+
+## Description of the challenge
 
 The purpose of this challenge is to push forward the fields of computational differential geometry and topology, by creating the best data analysis, computational method, or numerical experiment relying on state-of-the-art geometric and topological Python packages.
 
