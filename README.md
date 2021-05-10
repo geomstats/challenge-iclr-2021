@@ -14,19 +14,19 @@ Here are the best contributions to open-source computational geometry and topolo
 
 Matei Bejan, Bogdan Luchian, Andrei Manolache, Armand Nicolicioiu, Mihaela Nistor, Mihai Sorin Stupariu
 
-[Topological noise invariant features using Giotto-TDA and Geomstats](https://github.com/geomstats/challenge-iclr-2021/blob/main/mihaelanistor/noise_invariant_topological_features.ipynb) 
+[Topological noise invariant features using Giotto-TDA and Geomstats](https://github.com/geomstats/challenge-iclr-2021/blob/main/1st-prize__mihaelanistor__Noise-Invariant-Topological-Features/noise_invariant_topological_features.ipynb) 
 
-<img src="mihaelanistor/images/common_pipeline.png" alt="Topological Noise Invariant Features: Pipeline using Giotto-TDA and Geomstats" width="800" />
+<img src="1st-prize__mihaelanistor__Noise-Invariant-Topological-Features/images/common_pipeline.png" alt="Topological Noise Invariant Features: Pipeline using Giotto-TDA and Geomstats" width="800" />
 
 ### Co-winners for 2nd and 3rd place ($750 each):
 
-- Saiteja Utpala: [Shrinkage Estimator of SPD matrices & Recursive Karcher Expectation Estimator](https://github.com/geomstats/challenge-iclr-2021/tree/main/SaitejaUtpala)
-- Elodie Maignant: [Visualization of Kendall shape spaces for triangles](https://github.com/geomstats/challenge-iclr-2021/blob/main/emaignant/submission_visualization_of_kendall_shape_spaces_for_triangles.ipynb)
+- Saiteja Utpala: [Shrinkage Estimator of SPD matrices & Recursive Karcher Expectation Estimator](https://github.com/geomstats/challenge-iclr-2021/tree/main/2nd-prize__SaitejaUtpala__Estimators-of-Mean-of-SPD-Matrices)
+- Elodie Maignant: [Visualization of Kendall shape spaces for triangles](https://github.com/geomstats/challenge-iclr-2021/blob/main/2nd-prize__emaignant__Visualization-of-Kendall-Shape-Spaces-for-Triangles/submission_visualization_of_kendall_shape_spaces_for_triangles.ipynb)
 
 ### Special mentions:
 
-- Gabriele Corso: [Neural Sequence Distance Embeddings](https://github.com/geomstats/challenge-iclr-2021/blob/main/gcorso/Neural_SEED.ipynb)
-- Somesh Mohapatra:  [Repurposing peptide inhibitors for SARS-Cov-2 spike protein](https://github.com/geomstats/challenge-iclr-2021/blob/main/SomeshMohapatra/Protein_Peptide_Interactions-TDA.ipynb)
+- Gabriele Corso: [Neural Sequence Distance Embeddings](https://github.com/geomstats/challenge-iclr-2021/blob/main/gcorso__Neural-Sequence-Distance-Embeddings/Neural_SEED.ipynb)
+- Somesh Mohapatra: [Repurposing peptide inhibitors for SARS-Cov-2 spike protein](https://github.com/geomstats/challenge-iclr-2021/blob/main/SomeshMohapatra__Protein-Peptide-Interactions-with-TDA/Protein_Peptide_Interactions-TDA.ipynb)
 
 Congratulations to all!!
 
