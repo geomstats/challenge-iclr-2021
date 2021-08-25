@@ -4,6 +4,8 @@ Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
 ## Results
 
+The paper summarizing the results and findings of the challenge is out! You can find it [here on the webpage of the challenge](https://gt-rl.github.io/challenge.html).
+
 All submissions to the challenge were of very high quality. We warmly congratulate all of the participants! We encourage the interested readers to take a look at the participants' submissions in the different folders of this repository.
 
 The winners were decided using the [Condorcet Method](https://github.com/geomstats/challenge-iclr-2021/blob/main/README.md#evaluation-and-ranking).
