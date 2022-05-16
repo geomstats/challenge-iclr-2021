@@ -1,6 +1,8 @@
 # ICLR Computational Geometry & Topology Challenge 2021
 
 Welcome to the ICLR Computational Geometry & Topology challenge 2021!
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6554587.svg)](https://doi.org/10.5281/zenodo.6554587)
+
 
 ## Results
 
