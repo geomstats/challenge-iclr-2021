@@ -6,7 +6,7 @@ Welcome to the ICLR Computational Geometry & Topology challenge 2021!
 
 ## Results
 
-The paper summarizing the results and findings of the challenge is out! You can find it [here on the webpage of the challenge](https://gt-rl.github.io/challenge.html).
+The paper summarizing the results and findings of the challenge is out! You can find it [here](https://arxiv.org/pdf/2108.09810v2.pdf).
 
 All submissions to the challenge were of very high quality. We warmly congratulate all of the participants! We encourage the interested readers to take a look at the participants' submissions in the different folders of this repository.
 
